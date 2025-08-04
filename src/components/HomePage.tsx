@@ -95,7 +95,7 @@ const HomePage = () => {
     { name: "Pranav Jha", title: "Cultural Head", image: pranavJha, description: "Passionate leader with exceptional vision for cultural excellence.", achievements: ["Led 15+ major events", "Student Excellence Award"], specialty: "Event Management" },
     { name: "Archana Arora", title: "Cultural Head", image: archanaArora, description: "Creative mastermind behind many successful cultural initiatives.", achievements: ["Creative Director Award", "10+ Festival Coordinator"], specialty: "Creative Direction" },
     { name: "Ishi", title: "Cultural Head", image: ishi, description: "Dedicated organizer with remarkable talent for community building.", achievements: ["Outstanding Organizer", "Cultural Ambassador"], specialty: "Community Engagement" },
-    { name: "Jigisha", title: "Cultural Head", image: jigisha, description: "Innovative thinker who transforms ideas into memorable experiences.", achievements: ["Innovation Award", "Best Event Planner"], specialty: "Event Innovation" },
+    { name: "Jigisha", title: "Cultural Head", image: Jigyaasa, description: "Innovative thinker who transforms ideas into memorable experiences.", achievements: ["Innovation Award", "Best Event Planner"], specialty: "Event Innovation" },
     { name: "Shaurya Patwal", title: "Cultural Head", image: shauryaPatwal, description: "Dynamic leader committed to fostering artistic growth.", achievements: ["Leadership Excellence", "Cultural Diversity Advocate"], specialty: "Artistic Development" }
   ];
 
